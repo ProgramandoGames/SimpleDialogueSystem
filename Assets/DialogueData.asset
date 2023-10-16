@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ea2288f9786de41ba1ef95531811e7, type: 3}
+  m_Name: DialogueData
+  m_EditorClassIdentifier: 
+  talkScript:
+  - name: Player
+    text: "Ol\xE1, velho. Estou indo para a floresta. Sabe o que me aguarda l\xE1?\r\n"
+  - name: Velho
+    text: Jovem, cuidado. A floresta esconde perigos antigos.
+  - name: Player
+    text: Perigos? Como assim?
+  - name: Velho
+    text: Criaturas sombrias, armadilhas, magias esquecidas... esteja preparado.
+  - name: Player
+    text: "Voc\xEA j\xE1 esteve l\xE1?"
+  - name: Velho
+    text: 'Sim, em minha juventude. Travei muitas batalhas e perdi muitos amigos. '
+  - name: Player
+    text: Algum conselho?
+  - name: Velho
+    text: Nunca subestime a floresta. Confie em seus instintos ...
+  - name: Velho
+    text: "eee ... Ah! Carregue consigo uma espada afiada, po\xE7\xF5es e sanidade
+      ... voc\xEA vai precisar."
+  - name: Player
+    text: Obrigado pelos conselhos. O que acha de me  acompanhar?
+  - name: Velho
+    text: 'Meus dias de aventura acabaram jovem guerreiro, mas desejo-lhe sorte ... '
+  - name: Velho
+    text: "... voc\xEA vai precisar de muita."
